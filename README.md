@@ -4,4 +4,4 @@
 # installation
 <h2>WINDOWS</h2><p>to install on Windows simply open CMD and type:<br>pip install machine-ip</p>
 <h2>LINUX</h2><p>to install on Linux open terminal and type:<br>python3 -m pip install machine-ip</p>
-<h2>USAGE</h2><p>import the module using:<br>from machineIP import gethost</p>
+<h2>USAGE</h2><p>import the module using:<br>from machineIP import gethost<br> gethost.getLAN() ## returns the LAN IP<br> gethost.getLAN() ## returns the public IP</p>
